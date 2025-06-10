@@ -1,0 +1,11 @@
+-- -
+- [[Conceptos Básicos]]
+- [[Explotación de Vulnerabilidades y Ataques de Fuerza bruta]]
+- [[Explotación de Vulnerabilidades Web]]
+- [[Enumeración y Explotación del Protocolo SMB, SAMBA, SNMP, IIS y RDP]]
+- [[Hacking Entornos CMS]]
+- [[Escalada de Privilegios + Post Explotación]]
+- [[Pivoting con Metasploit]]
+- [[Exámen]]
+-- -
+
